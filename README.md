@@ -16,8 +16,9 @@ $ yarn build
 ```
 
 ## Deployment
-Uses Firebase Hosting.
-Login into your account
+Uses [Firebase Hosting](https://firebase.google.com/docs/hosting/).
+
+Install firebase tools
 ```
 $ firebase login
 ```
