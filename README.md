@@ -8,6 +8,7 @@ $ yarn install
 Serve development environment
 ```
 $ yarn serve
+localhost:8080
 ```
 
 ## Build for production
