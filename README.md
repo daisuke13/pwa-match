@@ -1,7 +1,7 @@
 # pwa-match
 
 ## Deployment
-Uses yarn as dependency management.
+Uses [yarn](https://yarnpkg.com/) as dependency management.
 ```
 $ yarn install
 ```
